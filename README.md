@@ -1,4 +1,4 @@
-# Dejays Homes & Shortlets - Luxury Apartment Rental Website
+# Deejays Homes & Shortlets - Luxury Apartment Rental Website
 
 A modern, responsive website for a premium shortlet apartment rental service in Abuja, Nigeria. Built with React 19, Tailwind CSS 4, and TypeScript.
 
@@ -152,7 +152,7 @@ MIT
 
 ## Contact
 
-For inquiries about the Dejays Homes & Shortlets service:
+For inquiries about the Deejays Homes & Shortlets service:
 - **Phone**: +234 907 138 3160
 - **Location**: Banex Junction, Abuja, Nigeria
 - **Hours**: 24/7 Support
