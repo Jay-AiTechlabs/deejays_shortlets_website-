@@ -148,7 +148,7 @@ pnpm format    # Format code with Prettier
 ## License
 
 MIT
-(c) 2026 DEEJAYS HOME AND SHORTLETS
+(c) 2026 DEEJAYS HOMES AND SHORTLETS
 
 ## Contact
 
